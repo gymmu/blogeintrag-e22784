@@ -6,6 +6,11 @@
 
 body {
   margin: 0;
-  background-color: lightgray;
+  background-color: rgb(174, 211, 234);
   font-family: sans-serif;
+
+h1 {background-color: rgb(213, 213, 213);}
+
+
 }
+
